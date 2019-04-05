@@ -6,6 +6,10 @@
     "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/banners/2019/3/30/120da81b-bedc-4ce2-ac2e-fe5fb757dec71553959219064-ESPRIT_Desktop_Banner.jpg",
     "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/banners/2019/3/31/506f5b20-baf7-4106-9e69-c17de09cfab81554023104632-Desk2.gif"
   ],
+  "text-carousel": [
+    "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/banners/2019/3/26/96a641be-a42f-4919-bacf-9d84ec173e091553594813424-Desktop_02_02--1-.jpg",
+    "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/banners/2019/3/26/4874863e-c3ac-4052-b5b9-14ef073a67631553594813440-Desktop_02_02--2-.jpg"
+  ],
   "deals-card-images": [
     {
       "message": "flat 45% off",
@@ -30,51 +34,38 @@
   ],
   "brands-focus-images": [
     {
-      "brand-name": "The Roadster Life Co.",
-      "message": "make a statement with plaids & prints",
-      "image": "https://www.bonprix.co.uk/web/pix/CategoryLanding/womens/2018/AUG/3.jpg",
+      "image": "https://assets.myntassets.com/w_245,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2019/4/4/2868d164-a535-4796-ab6d-b7deed9efb311554361276726-MAC_AHPMB_AR1.jpg",
       "id": 1
     },
     {
-      "brand-name": "Levi's",
-      "message": "fresh styles to ace the summer!",
-      "image": "https://i.pinimg.com/originals/fb/b7/0a/fbb70a5f41259158b855358b6b1fdb0d.jpg",
+      "image": "https://assets.myntassets.com/w_245,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2019/4/2/711d30bf-885e-4142-aa96-48971521396f1554191771744-JI1a.jpg",
       "id": 2
     },
     {
-      "brand-name": "Duke",
-      "message": "new arrivals to make your hangouts cooler",
-      "image": "https://i.pinimg.com/originals/2d/7b/ae/2d7baef577b19de3a4fb31534ad634d9.png",
+      "image": "https://assets.myntassets.com/w_245,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2019/4/1/82c9eb90-fa37-4899-9de8-bf1399db72d41554113514777-adidas-just-in-_AHPMB_AR3.jpg",
       "id": 3
     },
     {
-      "brand-name": "Pepe Jeans",
-      "message": "all-new casuals that will stun everyone!",
-      "image": "https://i.pinimg.com/originals/ba/cc/2b/bacc2b5ee63496a7e74a9da1cbe68ac0.jpg",
+      "image": "https://assets.myntassets.com/w_245,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2019/4/1/cc7758c3-9403-42b2-b2d6-ceae1991ee121554115023565-9bb6d9e3-7e7d-4b35-a3b7-21f8ec3cf90a1553682903200-Nike-AHPMB_AR12.jpg",
       "id": 4
     },
     {
-      "brand-name": "Here&Now",
-      "message": "min. 40% off stock up on latest trends",
-      "image": "https://www.bonprix.co.uk/web/pix/CategoryLanding/womens/2018/AUG/2.jpg",
+
+      "image": "https://assets.myntassets.com/w_245,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2019/4/1/108f1143-2279-416b-b390-3a1dc32886b61554114297894-167912cb-c3c1-4839-afdc-a6fb85d54f2e1553589515988-Espri-_AHPMB_BF.jpg",
       "id": 5
     },
     {
-      "brand-name": "Highlander",
-      "message": "denim for him & her starting at \u20B9699",
-      "image": "https://cdn3.andhrajyothy.com/AJNewsImages//2019//Feb//20190208//Hyderabad//636852690704732953.jpg",
+
+      "image": "https://assets.myntassets.com/w_245,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2019/4/2/24c10470-6c91-4beb-90f7-834272d8058b1554192352744-Just-in.jpg",
       "id": 6
     },
     {
-      "brand-name": "Sassafaras",
-      "message": "show-stopping dresses under \u20B91199!",
-      "image": "https://gfg.toomanygames.com/wp-content/uploads/2018/11/6wx-250x270.png",
+
+      "image": "https://assets.myntassets.com/w_245,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2019/4/3/39e92bf4-f983-469a-9221-ebaf4af3b1631554288494669-Black-Coffee---WW_AMPB_B.jpg",
       "id": 7
     },
     {
-      "brand-name": "Indian Terrain",
-      "message": "min. 40% off to help with a closest makeover!",
-      "image": "https://data.whicdn.com/images/52496086/original.jpg",
+      "image": "https://assets.myntassets.com/w_245,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2019/4/2/29732f81-ceb6-481b-8caa-d04ad9a9f7d91554198984643-French-Connection_Daniel-Klein_AHPMB_BF5.jpg",
       "id": 8
     }
   ]

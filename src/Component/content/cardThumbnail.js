@@ -10,8 +10,11 @@ class Brandthumbnail extends Component{
         return(
             <div>
                 <div className='cardProp'>
-                    <img src={image} />
+                    <div className='imgShadow'>
+                        <img src={image} />
+                    </div>
                     <div className="brand-info">
+                        <span className='deals'>HOT DEALS</span>
                         <p>{message}</p>
                     </div>
                 </div>

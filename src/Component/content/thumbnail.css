@@ -1,19 +1,36 @@
 .cardProp{
     position: relative;
-    border-radius: 5px;
-}
 
+
+}
 .cardProp .brand-info {
-    text-align: center;
     position: absolute;
-    top: 120px;
+    top: 80px;
     left: 10px;
     color: white;
     font-size: 20px;
 }
+.cardProp .brand-info .deals{
+    text-decoration: underline;
+    line-height: 40px;
+    font-size: 13px;
+}
+
 
 .cardProp img{
-    padding-right: 65px;
+    opacity: 0.5;
+}
+.imgShadow{
+    background-color: black;
+
+}
+span .deals{
+    position: absolute;
+    top: 12px;
+    text-decoration: underline;
+    left: 10px;
+    color: white;
+    font-size: 12px;
 }
 
 .cardProp img:last-child{

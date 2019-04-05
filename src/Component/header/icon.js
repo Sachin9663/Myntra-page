@@ -5,17 +5,17 @@ class HeaderIcon extends Component{
     render() {
         return(
             <div className='header-Icon'>
-                <div className='icon icon1' >
+                <div className='icon' >
                     <span><i className="fas fa-user-alt"></i></span>
-                    <div className="text">Profile</div>
+                    <div className="texts">Profile</div>
                 </div>
-                <div className='icon icon2'>
+                <div className='icon'>
                     <span><i className="fas fa-clipboard-check"></i></span>
-                    <div className="text">Wishlist</div>
+                    <div className="texts">Wishlist</div>
                 </div>
-                <div className='icon icon3'>
+                <div className='icon'>
                     <span><i className="fas fa-shopping-bag"></i></span>
-                    <div className="text">Bag</div>
+                    <div className="texts">Bag</div>
                 </div>
             </div>
         )

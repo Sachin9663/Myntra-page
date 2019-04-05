@@ -1,7 +1,10 @@
-.cards{
-    margin-top: 50px;
+.b-card{
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
+.b-card .thumb{
+    width: 21%;
+}
