@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
   line-height: 1;
+
 }
 ol, ul {
   list-style: none;
@@ -44,6 +45,17 @@ table {
 
 body{
   font-family: Whitney-SemiBold, Whitney;
+}
+
+body a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  text-decoration:none;
+  color:dodgerblue;
+
 }
 
 .mainContent{

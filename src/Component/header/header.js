@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Nav from './nav.js'
 import './header.css';
 import SearchBox from "./searchBox";
@@ -10,9 +11,10 @@ import HeaderIcon from "./icon";
 class Header extends Component {
     render() {
         return (
+            <Router>
                 <div className="header">
                     <div>
-                        <h1></h1>
+                        <Link to='#'><h1></h1></Link>
                     </div>
                     <div>
                         <Nav/>
@@ -24,6 +26,7 @@ class Header extends Component {
                         <HeaderIcon/>
                     </div>
                 </div>
+            </Router>
         )
     }
 }

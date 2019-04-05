@@ -6,6 +6,7 @@ import Card from './Component/brandsCard/brandCard';
 import './App.css';
 import Text from "./Component/text";
 import TextSlide from './Component/textSlider/textSlider';
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 class App extends Component {
   render() {
