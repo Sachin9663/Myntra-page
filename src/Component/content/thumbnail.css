@@ -1,0 +1,21 @@
+.cardProp{
+    position: relative;
+    border-radius: 5px;
+}
+
+.cardProp .brand-info {
+    text-align: center;
+    position: absolute;
+    top: 120px;
+    left: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.cardProp img{
+    padding-right: 65px;
+}
+
+.cardProp img:last-child{
+    padding-right: 0px;
+}

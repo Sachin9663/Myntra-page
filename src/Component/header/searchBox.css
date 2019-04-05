@@ -1,0 +1,25 @@
+input[type=text]{
+    width: 300px;
+    height: 20px;
+    line-height: 24px;
+    font-size: 14px;
+    padding: 0px 10px;
+    border-radius: 3px;
+    color: #696E79;
+    outline: none;
+    box-sizing: content-box;
+    border: 1px solid #F5F5F6;
+    padding: 8px 10px 10px 38px;
+    border-radius: 0 4px 4px 0;
+    border-left: 0;
+    background: #F5F5F6;
+}
+
+.fa-search:before {
+    content: "\f002";
+    position: relative;
+    left: 28px;
+    font-size: 17px;
+    color: #bcb3b3;
+}
+

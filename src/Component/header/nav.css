@@ -1,0 +1,23 @@
+
+._nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+._nav ul{
+    list-style: none;
+}
+._nav ._list ul li{
+    display: inline-block;
+    padding: 20px 25px;
+}
+
+._nav ._list ul li ul li{
+    display: block;
+}
+
+
+
+
+
+
